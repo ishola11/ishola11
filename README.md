@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ishola11
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning html 
 - 💞️ I’m looking to collaborate on programming and coding more better 
 - 📫 How to reach me ...isholamujeeb11@gmail.com
 
